@@ -12,12 +12,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("abdi is typing")
-        
+        print("where is the commitment")
         func him(){
             print("go get him")
         }
     }
-
 
 }
 
