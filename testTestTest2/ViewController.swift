@@ -13,6 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("abdi is typing")
         
+        func him(){
+            print("go get him")
+        }
     }
 
 
